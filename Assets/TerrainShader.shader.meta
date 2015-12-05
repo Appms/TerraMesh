@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 15fafaf22d53da046a9959aa4593dbcd
+timeCreated: 1444747002
+licenseType: Free
+ShaderImporter:
+  defaultTextures:
+  - _AlbedoHeight: {fileID: 2800000, guid: 4116ee82c954b69488a381f1d7edd5ff, type: 3}
+  - _AOMetallic: {fileID: 2800000, guid: 1ad6169b0307bef47843bd711d6015e0, type: 3}
+  - _Normal: {fileID: 2800000, guid: 75f71752fd963054c8aa3a1af0667623, type: 3}
+  - _GrassColorMask: {fileID: 2800000, guid: ff107b151d1f55543b4f0a5e165ef533, type: 3}
+  - _PathMask: {fileID: 2800000, guid: a1fd597606a9c124992cec4294337d41, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
